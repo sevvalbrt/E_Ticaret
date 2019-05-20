@@ -1,0 +1,475 @@
+C:\Users\ayrem\Desktop\en osnnnn\SpaceShoes\SpaceShoes\bin\ApplicationInsights.config
+C:\Users\ayrem\Desktop\en osnnnn\SpaceShoes\SpaceShoes\bin\SpaceShoes.dll.config
+C:\Users\ayrem\Desktop\en osnnnn\SpaceShoes\SpaceShoes\bin\SpaceShoes.dll
+C:\Users\ayrem\Desktop\en osnnnn\SpaceShoes\SpaceShoes\bin\SpaceShoes.pdb
+C:\Users\ayrem\Desktop\en osnnnn\SpaceShoes\SpaceShoes\bin\roslyn\csc.exe
+C:\Users\ayrem\Desktop\en osnnnn\SpaceShoes\SpaceShoes\bin\roslyn\csc.exe.config
+C:\Users\ayrem\Desktop\en osnnnn\SpaceShoes\SpaceShoes\bin\roslyn\csc.rsp
+C:\Users\ayrem\Desktop\en osnnnn\SpaceShoes\SpaceShoes\bin\roslyn\csi.exe
+C:\Users\ayrem\Desktop\en osnnnn\SpaceShoes\SpaceShoes\bin\roslyn\csi.exe.config
+C:\Users\ayrem\Desktop\en osnnnn\SpaceShoes\SpaceShoes\bin\roslyn\csi.rsp
+C:\Users\ayrem\Desktop\en osnnnn\SpaceShoes\SpaceShoes\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ayrem\Desktop\en osnnnn\SpaceShoes\SpaceShoes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ayrem\Desktop\en osnnnn\SpaceShoes\SpaceShoes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ayrem\Desktop\en osnnnn\SpaceShoes\SpaceShoes\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ayrem\Desktop\en osnnnn\SpaceShoes\SpaceShoes\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ayrem\Desktop\en osnnnn\SpaceShoes\SpaceShoes\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ayrem\Desktop\en osnnnn\SpaceShoes\SpaceShoes\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ayrem\Desktop\en osnnnn\SpaceShoes\SpaceShoes\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ayrem\Desktop\en osnnnn\SpaceShoes\SpaceShoes\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ayrem\Desktop\en osnnnn\SpaceShoes\SpaceShoes\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ayrem\Desktop\en osnnnn\SpaceShoes\SpaceShoes\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ayrem\Desktop\en osnnnn\SpaceShoes\SpaceShoes\bin\roslyn\System.AppContext.dll
+C:\Users\ayrem\Desktop\en osnnnn\SpaceShoes\SpaceShoes\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ayrem\Desktop\en osnnnn\SpaceShoes\SpaceShoes\bin\roslyn\System.Console.dll
+C:\Users\ayrem\Desktop\en osnnnn\SpaceShoes\SpaceShoes\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ayrem\Desktop\en osnnnn\SpaceShoes\SpaceShoes\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ayrem\Desktop\en osnnnn\SpaceShoes\SpaceShoes\bin\roslyn\System.IO.Compression.dll
+C:\Users\ayrem\Desktop\en osnnnn\SpaceShoes\SpaceShoes\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ayrem\Desktop\en osnnnn\SpaceShoes\SpaceShoes\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ayrem\Desktop\en osnnnn\SpaceShoes\SpaceShoes\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ayrem\Desktop\en osnnnn\SpaceShoes\SpaceShoes\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ayrem\Desktop\en osnnnn\SpaceShoes\SpaceShoes\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ayrem\Desktop\en osnnnn\SpaceShoes\SpaceShoes\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ayrem\Desktop\en osnnnn\SpaceShoes\SpaceShoes\bin\roslyn\System.Security.Claims.dll
+C:\Users\ayrem\Desktop\en osnnnn\SpaceShoes\SpaceShoes\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ayrem\Desktop\en osnnnn\SpaceShoes\SpaceShoes\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ayrem\Desktop\en osnnnn\SpaceShoes\SpaceShoes\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ayrem\Desktop\en osnnnn\SpaceShoes\SpaceShoes\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ayrem\Desktop\en osnnnn\SpaceShoes\SpaceShoes\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ayrem\Desktop\en osnnnn\SpaceShoes\SpaceShoes\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ayrem\Desktop\en osnnnn\SpaceShoes\SpaceShoes\bin\roslyn\System.ValueTuple.dll
+C:\Users\ayrem\Desktop\en osnnnn\SpaceShoes\SpaceShoes\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ayrem\Desktop\en osnnnn\SpaceShoes\SpaceShoes\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ayrem\Desktop\en osnnnn\SpaceShoes\SpaceShoes\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ayrem\Desktop\en osnnnn\SpaceShoes\SpaceShoes\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ayrem\Desktop\en osnnnn\SpaceShoes\SpaceShoes\bin\roslyn\vbc.exe
+C:\Users\ayrem\Desktop\en osnnnn\SpaceShoes\SpaceShoes\bin\roslyn\vbc.exe.config
+C:\Users\ayrem\Desktop\en osnnnn\SpaceShoes\SpaceShoes\bin\roslyn\vbc.rsp
+C:\Users\ayrem\Desktop\en osnnnn\SpaceShoes\SpaceShoes\bin\roslyn\VBCSCompiler.exe
+C:\Users\ayrem\Desktop\en osnnnn\SpaceShoes\SpaceShoes\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ayrem\Desktop\en osnnnn\SpaceShoes\SpaceShoes\bin\Antlr3.Runtime.dll
+C:\Users\ayrem\Desktop\en osnnnn\SpaceShoes\SpaceShoes\bin\EntityFramework.dll
+C:\Users\ayrem\Desktop\en osnnnn\SpaceShoes\SpaceShoes\bin\EntityFramework.SqlServer.dll
+C:\Users\ayrem\Desktop\en osnnnn\SpaceShoes\SpaceShoes\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ayrem\Desktop\en osnnnn\SpaceShoes\SpaceShoes\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ayrem\Desktop\en osnnnn\SpaceShoes\SpaceShoes\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ayrem\Desktop\en osnnnn\SpaceShoes\SpaceShoes\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ayrem\Desktop\en osnnnn\SpaceShoes\SpaceShoes\bin\Microsoft.AI.Web.dll
+C:\Users\ayrem\Desktop\en osnnnn\SpaceShoes\SpaceShoes\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ayrem\Desktop\en osnnnn\SpaceShoes\SpaceShoes\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ayrem\Desktop\en osnnnn\SpaceShoes\SpaceShoes\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\ayrem\Desktop\en osnnnn\SpaceShoes\SpaceShoes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ayrem\Desktop\en osnnnn\SpaceShoes\SpaceShoes\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ayrem\Desktop\en osnnnn\SpaceShoes\SpaceShoes\bin\Newtonsoft.Json.dll
+C:\Users\ayrem\Desktop\en osnnnn\SpaceShoes\SpaceShoes\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ayrem\Desktop\en osnnnn\SpaceShoes\SpaceShoes\bin\System.Web.Helpers.dll
+C:\Users\ayrem\Desktop\en osnnnn\SpaceShoes\SpaceShoes\bin\System.Web.Mvc.dll
+C:\Users\ayrem\Desktop\en osnnnn\SpaceShoes\SpaceShoes\bin\System.Web.Optimization.dll
+C:\Users\ayrem\Desktop\en osnnnn\SpaceShoes\SpaceShoes\bin\System.Web.Razor.dll
+C:\Users\ayrem\Desktop\en osnnnn\SpaceShoes\SpaceShoes\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ayrem\Desktop\en osnnnn\SpaceShoes\SpaceShoes\bin\System.Web.WebPages.dll
+C:\Users\ayrem\Desktop\en osnnnn\SpaceShoes\SpaceShoes\bin\System.Web.WebPages.Razor.dll
+C:\Users\ayrem\Desktop\en osnnnn\SpaceShoes\SpaceShoes\bin\WebGrease.dll
+C:\Users\ayrem\Desktop\en osnnnn\SpaceShoes\SpaceShoes\bin\EntityFramework.xml
+C:\Users\ayrem\Desktop\en osnnnn\SpaceShoes\SpaceShoes\bin\EntityFramework.SqlServer.xml
+C:\Users\ayrem\Desktop\en osnnnn\SpaceShoes\SpaceShoes\bin\System.Web.Helpers.xml
+C:\Users\ayrem\Desktop\en osnnnn\SpaceShoes\SpaceShoes\bin\System.Web.Mvc.xml
+C:\Users\ayrem\Desktop\en osnnnn\SpaceShoes\SpaceShoes\bin\System.Web.Optimization.xml
+C:\Users\ayrem\Desktop\en osnnnn\SpaceShoes\SpaceShoes\bin\System.Web.Razor.xml
+C:\Users\ayrem\Desktop\en osnnnn\SpaceShoes\SpaceShoes\bin\System.Web.WebPages.xml
+C:\Users\ayrem\Desktop\en osnnnn\SpaceShoes\SpaceShoes\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ayrem\Desktop\en osnnnn\SpaceShoes\SpaceShoes\bin\System.Web.WebPages.Razor.xml
+C:\Users\ayrem\Desktop\en osnnnn\SpaceShoes\SpaceShoes\bin\Newtonsoft.Json.xml
+C:\Users\ayrem\Desktop\en osnnnn\SpaceShoes\SpaceShoes\bin\Antlr3.Runtime.pdb
+C:\Users\ayrem\Desktop\en osnnnn\SpaceShoes\SpaceShoes\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ayrem\Desktop\en osnnnn\SpaceShoes\SpaceShoes\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\ayrem\Desktop\en osnnnn\SpaceShoes\SpaceShoes\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ayrem\Desktop\en osnnnn\SpaceShoes\SpaceShoes\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ayrem\Desktop\en osnnnn\SpaceShoes\SpaceShoes\bin\Microsoft.AI.Web.xml
+C:\Users\ayrem\Desktop\en osnnnn\SpaceShoes\SpaceShoes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ayrem\Desktop\en osnnnn\SpaceShoes\SpaceShoes\obj\Debug\SpaceShoes.csprojResolveAssemblyReference.cache
+C:\Users\ayrem\Desktop\en osnnnn\SpaceShoes\SpaceShoes\obj\Debug\SpaceShoes.csproj.CoreCompileInputs.cache
+C:\Users\ayrem\Desktop\en osnnnn\SpaceShoes\SpaceShoes\obj\Debug\SpaceShoes.csproj.CopyComplete
+C:\Users\ayrem\Desktop\en osnnnn\SpaceShoes\SpaceShoes\obj\Debug\SpaceShoes.dll
+C:\Users\ayrem\Desktop\en osnnnn\SpaceShoes\SpaceShoes\obj\Debug\SpaceShoes.pdb
+C:\Users\ayrem\Desktop\en osnnnn - Kopya\SpaceShoes\SpaceShoes\bin\ApplicationInsights.config
+C:\Users\ayrem\Desktop\en osnnnn - Kopya\SpaceShoes\SpaceShoes\bin\SpaceShoes.dll.config
+C:\Users\ayrem\Desktop\en osnnnn - Kopya\SpaceShoes\SpaceShoes\bin\SpaceShoes.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya\SpaceShoes\SpaceShoes\bin\SpaceShoes.pdb
+C:\Users\ayrem\Desktop\en osnnnn - Kopya\SpaceShoes\SpaceShoes\bin\roslyn\csc.exe
+C:\Users\ayrem\Desktop\en osnnnn - Kopya\SpaceShoes\SpaceShoes\bin\roslyn\csc.exe.config
+C:\Users\ayrem\Desktop\en osnnnn - Kopya\SpaceShoes\SpaceShoes\bin\roslyn\csc.rsp
+C:\Users\ayrem\Desktop\en osnnnn - Kopya\SpaceShoes\SpaceShoes\bin\roslyn\csi.exe
+C:\Users\ayrem\Desktop\en osnnnn - Kopya\SpaceShoes\SpaceShoes\bin\roslyn\csi.exe.config
+C:\Users\ayrem\Desktop\en osnnnn - Kopya\SpaceShoes\SpaceShoes\bin\roslyn\csi.rsp
+C:\Users\ayrem\Desktop\en osnnnn - Kopya\SpaceShoes\SpaceShoes\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya\SpaceShoes\SpaceShoes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya\SpaceShoes\SpaceShoes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya\SpaceShoes\SpaceShoes\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya\SpaceShoes\SpaceShoes\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya\SpaceShoes\SpaceShoes\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya\SpaceShoes\SpaceShoes\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ayrem\Desktop\en osnnnn - Kopya\SpaceShoes\SpaceShoes\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya\SpaceShoes\SpaceShoes\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya\SpaceShoes\SpaceShoes\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ayrem\Desktop\en osnnnn - Kopya\SpaceShoes\SpaceShoes\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ayrem\Desktop\en osnnnn - Kopya\SpaceShoes\SpaceShoes\bin\roslyn\System.AppContext.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya\SpaceShoes\SpaceShoes\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya\SpaceShoes\SpaceShoes\bin\roslyn\System.Console.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya\SpaceShoes\SpaceShoes\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya\SpaceShoes\SpaceShoes\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya\SpaceShoes\SpaceShoes\bin\roslyn\System.IO.Compression.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya\SpaceShoes\SpaceShoes\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya\SpaceShoes\SpaceShoes\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya\SpaceShoes\SpaceShoes\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya\SpaceShoes\SpaceShoes\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya\SpaceShoes\SpaceShoes\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya\SpaceShoes\SpaceShoes\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya\SpaceShoes\SpaceShoes\bin\roslyn\System.Security.Claims.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya\SpaceShoes\SpaceShoes\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya\SpaceShoes\SpaceShoes\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya\SpaceShoes\SpaceShoes\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya\SpaceShoes\SpaceShoes\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya\SpaceShoes\SpaceShoes\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya\SpaceShoes\SpaceShoes\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya\SpaceShoes\SpaceShoes\bin\roslyn\System.ValueTuple.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya\SpaceShoes\SpaceShoes\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya\SpaceShoes\SpaceShoes\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya\SpaceShoes\SpaceShoes\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya\SpaceShoes\SpaceShoes\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya\SpaceShoes\SpaceShoes\bin\roslyn\vbc.exe
+C:\Users\ayrem\Desktop\en osnnnn - Kopya\SpaceShoes\SpaceShoes\bin\roslyn\vbc.exe.config
+C:\Users\ayrem\Desktop\en osnnnn - Kopya\SpaceShoes\SpaceShoes\bin\roslyn\vbc.rsp
+C:\Users\ayrem\Desktop\en osnnnn - Kopya\SpaceShoes\SpaceShoes\bin\roslyn\VBCSCompiler.exe
+C:\Users\ayrem\Desktop\en osnnnn - Kopya\SpaceShoes\SpaceShoes\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ayrem\Desktop\en osnnnn - Kopya\SpaceShoes\SpaceShoes\bin\Antlr3.Runtime.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya\SpaceShoes\SpaceShoes\bin\EntityFramework.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya\SpaceShoes\SpaceShoes\bin\EntityFramework.SqlServer.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya\SpaceShoes\SpaceShoes\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya\SpaceShoes\SpaceShoes\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya\SpaceShoes\SpaceShoes\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya\SpaceShoes\SpaceShoes\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya\SpaceShoes\SpaceShoes\bin\Microsoft.AI.Web.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya\SpaceShoes\SpaceShoes\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya\SpaceShoes\SpaceShoes\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya\SpaceShoes\SpaceShoes\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya\SpaceShoes\SpaceShoes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya\SpaceShoes\SpaceShoes\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya\SpaceShoes\SpaceShoes\bin\Newtonsoft.Json.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya\SpaceShoes\SpaceShoes\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya\SpaceShoes\SpaceShoes\bin\System.Web.Helpers.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya\SpaceShoes\SpaceShoes\bin\System.Web.Mvc.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya\SpaceShoes\SpaceShoes\bin\System.Web.Optimization.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya\SpaceShoes\SpaceShoes\bin\System.Web.Razor.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya\SpaceShoes\SpaceShoes\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya\SpaceShoes\SpaceShoes\bin\System.Web.WebPages.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya\SpaceShoes\SpaceShoes\bin\System.Web.WebPages.Razor.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya\SpaceShoes\SpaceShoes\bin\WebGrease.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya\SpaceShoes\SpaceShoes\bin\EntityFramework.xml
+C:\Users\ayrem\Desktop\en osnnnn - Kopya\SpaceShoes\SpaceShoes\bin\EntityFramework.SqlServer.xml
+C:\Users\ayrem\Desktop\en osnnnn - Kopya\SpaceShoes\SpaceShoes\bin\System.Web.Helpers.xml
+C:\Users\ayrem\Desktop\en osnnnn - Kopya\SpaceShoes\SpaceShoes\bin\System.Web.Mvc.xml
+C:\Users\ayrem\Desktop\en osnnnn - Kopya\SpaceShoes\SpaceShoes\bin\System.Web.Optimization.xml
+C:\Users\ayrem\Desktop\en osnnnn - Kopya\SpaceShoes\SpaceShoes\bin\System.Web.Razor.xml
+C:\Users\ayrem\Desktop\en osnnnn - Kopya\SpaceShoes\SpaceShoes\bin\System.Web.WebPages.xml
+C:\Users\ayrem\Desktop\en osnnnn - Kopya\SpaceShoes\SpaceShoes\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ayrem\Desktop\en osnnnn - Kopya\SpaceShoes\SpaceShoes\bin\System.Web.WebPages.Razor.xml
+C:\Users\ayrem\Desktop\en osnnnn - Kopya\SpaceShoes\SpaceShoes\bin\Newtonsoft.Json.xml
+C:\Users\ayrem\Desktop\en osnnnn - Kopya\SpaceShoes\SpaceShoes\bin\Antlr3.Runtime.pdb
+C:\Users\ayrem\Desktop\en osnnnn - Kopya\SpaceShoes\SpaceShoes\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ayrem\Desktop\en osnnnn - Kopya\SpaceShoes\SpaceShoes\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\ayrem\Desktop\en osnnnn - Kopya\SpaceShoes\SpaceShoes\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ayrem\Desktop\en osnnnn - Kopya\SpaceShoes\SpaceShoes\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ayrem\Desktop\en osnnnn - Kopya\SpaceShoes\SpaceShoes\bin\Microsoft.AI.Web.xml
+C:\Users\ayrem\Desktop\en osnnnn - Kopya\SpaceShoes\SpaceShoes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ayrem\Desktop\en osnnnn - Kopya\SpaceShoes\SpaceShoes\obj\Debug\SpaceShoes.csprojResolveAssemblyReference.cache
+C:\Users\ayrem\Desktop\en osnnnn - Kopya\SpaceShoes\SpaceShoes\obj\Debug\SpaceShoes.csproj.CoreCompileInputs.cache
+C:\Users\ayrem\Desktop\en osnnnn - Kopya\SpaceShoes\SpaceShoes\obj\Debug\SpaceShoes.csproj.CopyComplete
+C:\Users\ayrem\Desktop\en osnnnn - Kopya\SpaceShoes\SpaceShoes\obj\Debug\SpaceShoes.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya\SpaceShoes\SpaceShoes\obj\Debug\SpaceShoes.pdb
+C:\Users\ayrem\Desktop\en osnnnn - Kopya - Kopya\SpaceShoes\SpaceShoes\obj\Debug\SpaceShoes.csprojResolveAssemblyReference.cache
+C:\Users\ayrem\Desktop\en osnnnn - Kopya - Kopya\SpaceShoes\SpaceShoes\obj\Debug\SpaceShoes.csproj.CoreCompileInputs.cache
+C:\Users\ayrem\Desktop\en osnnnn - Kopya - Kopya\SpaceShoes\SpaceShoes\obj\Debug\SpaceShoes.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya - Kopya\SpaceShoes\SpaceShoes\obj\Debug\SpaceShoes.pdb
+C:\Users\ayrem\Desktop\en osnnnn - Kopya - Kopya\SpaceShoes\SpaceShoes\bin\ApplicationInsights.config
+C:\Users\ayrem\Desktop\en osnnnn - Kopya - Kopya\SpaceShoes\SpaceShoes\bin\SpaceShoes.dll.config
+C:\Users\ayrem\Desktop\en osnnnn - Kopya - Kopya\SpaceShoes\SpaceShoes\bin\SpaceShoes.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya - Kopya\SpaceShoes\SpaceShoes\bin\SpaceShoes.pdb
+C:\Users\ayrem\Desktop\en osnnnn - Kopya - Kopya\SpaceShoes\SpaceShoes\bin\roslyn\csc.exe
+C:\Users\ayrem\Desktop\en osnnnn - Kopya - Kopya\SpaceShoes\SpaceShoes\bin\roslyn\csc.exe.config
+C:\Users\ayrem\Desktop\en osnnnn - Kopya - Kopya\SpaceShoes\SpaceShoes\bin\roslyn\csc.rsp
+C:\Users\ayrem\Desktop\en osnnnn - Kopya - Kopya\SpaceShoes\SpaceShoes\bin\roslyn\csi.exe
+C:\Users\ayrem\Desktop\en osnnnn - Kopya - Kopya\SpaceShoes\SpaceShoes\bin\roslyn\csi.exe.config
+C:\Users\ayrem\Desktop\en osnnnn - Kopya - Kopya\SpaceShoes\SpaceShoes\bin\roslyn\csi.rsp
+C:\Users\ayrem\Desktop\en osnnnn - Kopya - Kopya\SpaceShoes\SpaceShoes\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya - Kopya\SpaceShoes\SpaceShoes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya - Kopya\SpaceShoes\SpaceShoes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya - Kopya\SpaceShoes\SpaceShoes\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya - Kopya\SpaceShoes\SpaceShoes\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya - Kopya\SpaceShoes\SpaceShoes\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya - Kopya\SpaceShoes\SpaceShoes\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ayrem\Desktop\en osnnnn - Kopya - Kopya\SpaceShoes\SpaceShoes\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya - Kopya\SpaceShoes\SpaceShoes\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya - Kopya\SpaceShoes\SpaceShoes\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ayrem\Desktop\en osnnnn - Kopya - Kopya\SpaceShoes\SpaceShoes\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ayrem\Desktop\en osnnnn - Kopya - Kopya\SpaceShoes\SpaceShoes\bin\roslyn\System.AppContext.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya - Kopya\SpaceShoes\SpaceShoes\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya - Kopya\SpaceShoes\SpaceShoes\bin\roslyn\System.Console.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya - Kopya\SpaceShoes\SpaceShoes\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya - Kopya\SpaceShoes\SpaceShoes\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya - Kopya\SpaceShoes\SpaceShoes\bin\roslyn\System.IO.Compression.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya - Kopya\SpaceShoes\SpaceShoes\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya - Kopya\SpaceShoes\SpaceShoes\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya - Kopya\SpaceShoes\SpaceShoes\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya - Kopya\SpaceShoes\SpaceShoes\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya - Kopya\SpaceShoes\SpaceShoes\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya - Kopya\SpaceShoes\SpaceShoes\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya - Kopya\SpaceShoes\SpaceShoes\bin\roslyn\System.Security.Claims.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya - Kopya\SpaceShoes\SpaceShoes\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya - Kopya\SpaceShoes\SpaceShoes\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya - Kopya\SpaceShoes\SpaceShoes\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya - Kopya\SpaceShoes\SpaceShoes\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya - Kopya\SpaceShoes\SpaceShoes\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya - Kopya\SpaceShoes\SpaceShoes\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya - Kopya\SpaceShoes\SpaceShoes\bin\roslyn\System.ValueTuple.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya - Kopya\SpaceShoes\SpaceShoes\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya - Kopya\SpaceShoes\SpaceShoes\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya - Kopya\SpaceShoes\SpaceShoes\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya - Kopya\SpaceShoes\SpaceShoes\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya - Kopya\SpaceShoes\SpaceShoes\bin\roslyn\vbc.exe
+C:\Users\ayrem\Desktop\en osnnnn - Kopya - Kopya\SpaceShoes\SpaceShoes\bin\roslyn\vbc.exe.config
+C:\Users\ayrem\Desktop\en osnnnn - Kopya - Kopya\SpaceShoes\SpaceShoes\bin\roslyn\vbc.rsp
+C:\Users\ayrem\Desktop\en osnnnn - Kopya - Kopya\SpaceShoes\SpaceShoes\bin\roslyn\VBCSCompiler.exe
+C:\Users\ayrem\Desktop\en osnnnn - Kopya - Kopya\SpaceShoes\SpaceShoes\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ayrem\Desktop\en osnnnn - Kopya - Kopya\SpaceShoes\SpaceShoes\bin\Antlr3.Runtime.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya - Kopya\SpaceShoes\SpaceShoes\bin\EntityFramework.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya - Kopya\SpaceShoes\SpaceShoes\bin\EntityFramework.SqlServer.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya - Kopya\SpaceShoes\SpaceShoes\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya - Kopya\SpaceShoes\SpaceShoes\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya - Kopya\SpaceShoes\SpaceShoes\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya - Kopya\SpaceShoes\SpaceShoes\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya - Kopya\SpaceShoes\SpaceShoes\bin\Microsoft.AI.Web.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya - Kopya\SpaceShoes\SpaceShoes\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya - Kopya\SpaceShoes\SpaceShoes\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya - Kopya\SpaceShoes\SpaceShoes\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya - Kopya\SpaceShoes\SpaceShoes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya - Kopya\SpaceShoes\SpaceShoes\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya - Kopya\SpaceShoes\SpaceShoes\bin\Newtonsoft.Json.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya - Kopya\SpaceShoes\SpaceShoes\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya - Kopya\SpaceShoes\SpaceShoes\bin\System.Web.Helpers.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya - Kopya\SpaceShoes\SpaceShoes\bin\System.Web.Mvc.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya - Kopya\SpaceShoes\SpaceShoes\bin\System.Web.Optimization.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya - Kopya\SpaceShoes\SpaceShoes\bin\System.Web.Razor.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya - Kopya\SpaceShoes\SpaceShoes\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya - Kopya\SpaceShoes\SpaceShoes\bin\System.Web.WebPages.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya - Kopya\SpaceShoes\SpaceShoes\bin\System.Web.WebPages.Razor.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya - Kopya\SpaceShoes\SpaceShoes\bin\WebGrease.dll
+C:\Users\ayrem\Desktop\en osnnnn - Kopya - Kopya\SpaceShoes\SpaceShoes\bin\EntityFramework.xml
+C:\Users\ayrem\Desktop\en osnnnn - Kopya - Kopya\SpaceShoes\SpaceShoes\bin\EntityFramework.SqlServer.xml
+C:\Users\ayrem\Desktop\en osnnnn - Kopya - Kopya\SpaceShoes\SpaceShoes\bin\System.Web.Helpers.xml
+C:\Users\ayrem\Desktop\en osnnnn - Kopya - Kopya\SpaceShoes\SpaceShoes\bin\System.Web.Mvc.xml
+C:\Users\ayrem\Desktop\en osnnnn - Kopya - Kopya\SpaceShoes\SpaceShoes\bin\System.Web.Optimization.xml
+C:\Users\ayrem\Desktop\en osnnnn - Kopya - Kopya\SpaceShoes\SpaceShoes\bin\System.Web.Razor.xml
+C:\Users\ayrem\Desktop\en osnnnn - Kopya - Kopya\SpaceShoes\SpaceShoes\bin\System.Web.WebPages.xml
+C:\Users\ayrem\Desktop\en osnnnn - Kopya - Kopya\SpaceShoes\SpaceShoes\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ayrem\Desktop\en osnnnn - Kopya - Kopya\SpaceShoes\SpaceShoes\bin\System.Web.WebPages.Razor.xml
+C:\Users\ayrem\Desktop\en osnnnn - Kopya - Kopya\SpaceShoes\SpaceShoes\bin\Newtonsoft.Json.xml
+C:\Users\ayrem\Desktop\en osnnnn - Kopya - Kopya\SpaceShoes\SpaceShoes\bin\Antlr3.Runtime.pdb
+C:\Users\ayrem\Desktop\en osnnnn - Kopya - Kopya\SpaceShoes\SpaceShoes\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ayrem\Desktop\en osnnnn - Kopya - Kopya\SpaceShoes\SpaceShoes\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\ayrem\Desktop\en osnnnn - Kopya - Kopya\SpaceShoes\SpaceShoes\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ayrem\Desktop\en osnnnn - Kopya - Kopya\SpaceShoes\SpaceShoes\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ayrem\Desktop\en osnnnn - Kopya - Kopya\SpaceShoes\SpaceShoes\bin\Microsoft.AI.Web.xml
+C:\Users\ayrem\Desktop\en osnnnn - Kopya - Kopya\SpaceShoes\SpaceShoes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ayrem\Desktop\en osnnnn - Kopya - Kopya\SpaceShoes\SpaceShoes\obj\Debug\SpaceShoes.csproj.CopyComplete
+C:\Users\ayrem\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\ApplicationInsights.config
+C:\Users\ayrem\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\SpaceShoes.dll.config
+C:\Users\ayrem\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\SpaceShoes.dll
+C:\Users\ayrem\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\SpaceShoes.pdb
+C:\Users\ayrem\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\roslyn\csc.exe
+C:\Users\ayrem\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\roslyn\csc.exe.config
+C:\Users\ayrem\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\roslyn\csc.rsp
+C:\Users\ayrem\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\roslyn\csi.exe
+C:\Users\ayrem\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\roslyn\csi.exe.config
+C:\Users\ayrem\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\roslyn\csi.rsp
+C:\Users\ayrem\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ayrem\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ayrem\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ayrem\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ayrem\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ayrem\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ayrem\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ayrem\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ayrem\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ayrem\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ayrem\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ayrem\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\roslyn\System.AppContext.dll
+C:\Users\ayrem\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ayrem\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\roslyn\System.Console.dll
+C:\Users\ayrem\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ayrem\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ayrem\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\roslyn\System.IO.Compression.dll
+C:\Users\ayrem\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ayrem\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ayrem\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ayrem\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ayrem\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ayrem\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ayrem\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\roslyn\System.Security.Claims.dll
+C:\Users\ayrem\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ayrem\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ayrem\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ayrem\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ayrem\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ayrem\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ayrem\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\roslyn\System.ValueTuple.dll
+C:\Users\ayrem\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ayrem\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ayrem\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ayrem\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ayrem\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\roslyn\vbc.exe
+C:\Users\ayrem\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\roslyn\vbc.exe.config
+C:\Users\ayrem\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\roslyn\vbc.rsp
+C:\Users\ayrem\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\roslyn\VBCSCompiler.exe
+C:\Users\ayrem\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ayrem\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\Antlr3.Runtime.dll
+C:\Users\ayrem\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\EntityFramework.dll
+C:\Users\ayrem\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\EntityFramework.SqlServer.dll
+C:\Users\ayrem\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ayrem\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ayrem\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ayrem\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ayrem\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\Microsoft.AI.Web.dll
+C:\Users\ayrem\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ayrem\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ayrem\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\ayrem\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ayrem\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ayrem\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\Newtonsoft.Json.dll
+C:\Users\ayrem\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ayrem\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\System.Web.Helpers.dll
+C:\Users\ayrem\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\System.Web.Mvc.dll
+C:\Users\ayrem\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\System.Web.Optimization.dll
+C:\Users\ayrem\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\System.Web.Razor.dll
+C:\Users\ayrem\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ayrem\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\System.Web.WebPages.dll
+C:\Users\ayrem\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\System.Web.WebPages.Razor.dll
+C:\Users\ayrem\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\WebGrease.dll
+C:\Users\ayrem\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\EntityFramework.xml
+C:\Users\ayrem\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\EntityFramework.SqlServer.xml
+C:\Users\ayrem\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\System.Web.Helpers.xml
+C:\Users\ayrem\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\System.Web.Mvc.xml
+C:\Users\ayrem\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\System.Web.Optimization.xml
+C:\Users\ayrem\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\System.Web.Razor.xml
+C:\Users\ayrem\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\System.Web.WebPages.xml
+C:\Users\ayrem\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ayrem\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\System.Web.WebPages.Razor.xml
+C:\Users\ayrem\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\Newtonsoft.Json.xml
+C:\Users\ayrem\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\Antlr3.Runtime.pdb
+C:\Users\ayrem\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ayrem\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\ayrem\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ayrem\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ayrem\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\Microsoft.AI.Web.xml
+C:\Users\ayrem\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ayrem\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\obj\Debug\SpaceShoes.csprojResolveAssemblyReference.cache
+C:\Users\ayrem\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\obj\Debug\SpaceShoes.csproj.CoreCompileInputs.cache
+C:\Users\ayrem\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\obj\Debug\SpaceShoes.csproj.CopyComplete
+C:\Users\ayrem\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\obj\Debug\SpaceShoes.dll
+C:\Users\ayrem\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\obj\Debug\SpaceShoes.pdb
+C:\Users\barut\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\ApplicationInsights.config
+C:\Users\barut\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\SpaceShoes.dll.config
+C:\Users\barut\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\SpaceShoes.dll
+C:\Users\barut\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\SpaceShoes.pdb
+C:\Users\barut\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\roslyn\csc.exe
+C:\Users\barut\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\roslyn\csc.exe.config
+C:\Users\barut\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\roslyn\csc.rsp
+C:\Users\barut\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\roslyn\csi.exe
+C:\Users\barut\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\roslyn\csi.exe.config
+C:\Users\barut\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\roslyn\csi.rsp
+C:\Users\barut\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\barut\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\barut\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\barut\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\barut\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\barut\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\barut\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\barut\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\barut\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\barut\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\barut\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\barut\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\roslyn\System.AppContext.dll
+C:\Users\barut\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\barut\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\roslyn\System.Console.dll
+C:\Users\barut\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\barut\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\barut\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\roslyn\System.IO.Compression.dll
+C:\Users\barut\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\barut\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\barut\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\barut\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\roslyn\System.IO.Pipes.dll
+C:\Users\barut\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\barut\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\barut\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\roslyn\System.Security.Claims.dll
+C:\Users\barut\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\barut\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\barut\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\barut\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\barut\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\barut\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\barut\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\roslyn\System.ValueTuple.dll
+C:\Users\barut\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\barut\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\barut\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\roslyn\System.Xml.XPath.dll
+C:\Users\barut\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\barut\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\roslyn\vbc.exe
+C:\Users\barut\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\roslyn\vbc.exe.config
+C:\Users\barut\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\roslyn\vbc.rsp
+C:\Users\barut\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\roslyn\VBCSCompiler.exe
+C:\Users\barut\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\barut\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\Antlr3.Runtime.dll
+C:\Users\barut\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\EntityFramework.dll
+C:\Users\barut\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\EntityFramework.SqlServer.dll
+C:\Users\barut\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\barut\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\barut\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\barut\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\barut\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\Microsoft.AI.Web.dll
+C:\Users\barut\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\barut\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\Microsoft.ApplicationInsights.dll
+C:\Users\barut\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\barut\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\barut\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\barut\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\Newtonsoft.Json.dll
+C:\Users\barut\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\barut\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\System.Web.Helpers.dll
+C:\Users\barut\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\System.Web.Mvc.dll
+C:\Users\barut\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\System.Web.Optimization.dll
+C:\Users\barut\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\System.Web.Razor.dll
+C:\Users\barut\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\System.Web.WebPages.Deployment.dll
+C:\Users\barut\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\System.Web.WebPages.dll
+C:\Users\barut\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\System.Web.WebPages.Razor.dll
+C:\Users\barut\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\WebGrease.dll
+C:\Users\barut\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\EntityFramework.xml
+C:\Users\barut\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\EntityFramework.SqlServer.xml
+C:\Users\barut\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\System.Web.Helpers.xml
+C:\Users\barut\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\System.Web.Mvc.xml
+C:\Users\barut\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\System.Web.Optimization.xml
+C:\Users\barut\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\System.Web.Razor.xml
+C:\Users\barut\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\System.Web.WebPages.xml
+C:\Users\barut\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\System.Web.WebPages.Deployment.xml
+C:\Users\barut\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\System.Web.WebPages.Razor.xml
+C:\Users\barut\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\Newtonsoft.Json.xml
+C:\Users\barut\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\Antlr3.Runtime.pdb
+C:\Users\barut\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\barut\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\barut\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\barut\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\barut\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\Microsoft.AI.Web.xml
+C:\Users\barut\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\barut\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\obj\Debug\SpaceShoes.csprojAssemblyReference.cache
+C:\Users\barut\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\obj\Debug\SpaceShoes.csproj.CoreCompileInputs.cache
+C:\Users\barut\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\obj\Debug\SpaceShoes.csproj.CopyComplete
+C:\Users\barut\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\obj\Debug\SpaceShoes.dll
+C:\Users\barut\Desktop\e ticaret son hali artık yeter\SpaceShoes\SpaceShoes\obj\Debug\SpaceShoes.pdb

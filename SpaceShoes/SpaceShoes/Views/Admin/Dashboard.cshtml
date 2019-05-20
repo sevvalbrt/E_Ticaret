@@ -1,0 +1,199 @@
+﻿
+@{
+    ViewBag.Title = "Dashboard";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h2>Dashboard</h2>
+
+<section id="main-content">
+    <section class="wrapper">
+        <!--state overview start-->
+        <div class="row state-overview">
+            <div class="col-lg-3 col-sm-6">
+                <section class="panel">
+                    <div class="symbol terques">
+                        <i class="icon-user"></i>
+                    </div>
+                    <div class="value">
+                        <div align="center">
+                            <script language="javascript" src="http://sa.sayaclar.com/c/s4.php?a=facfsv&s=1a1"></script>
+                        </div>
+                        <p>Toplam Ziyaretçiler</p>
+                    </div>
+                </section>
+            </div>
+            <div class="col-lg-3 col-sm-6">
+                <section class="panel">
+                    <div class="symbol red">
+                        <i class="icon-tags"></i>
+                    </div>
+                    <div class="value">
+                        <div class="huge">@ViewBag.ToplamUyeKaydiSayisi</div>
+                        <p>Toplam Üye Kaydı Kayısı</p>
+                    </div>
+                </section>
+            </div>
+            <div class="col-lg-3 col-sm-6">
+                <section class="panel">
+                    <div class="symbol yellow">
+                        <i class="icon-shopping-cart"></i>
+                    </div>
+                    <div class="value">
+                        <div class="huge">@ViewBag.UrunSatisSayisi</div>
+                        <p>Toplam Ürün Satış Sayısı</p>
+                    </div>
+                </section>
+            </div>
+
+        </div>
+        <!--state overview end-->
+        <div class="row">
+            <div class="col-lg-8">
+                <!--custom chart start-->
+                <div class="border-head">
+                    <h3>Ziyaret Edenlerin Grafiği</h3>
+                </div>
+                <div class="custom-bar-chart">
+                    <ul class="y-axis">
+                        <li><span>100</span></li>
+                        <li><span>80</span></li>
+                        <li><span>60</span></li>
+                        <li><span>40</span></li>
+                        <li><span>20</span></li>
+                        <li><span>0</span></li>
+                    </ul>
+                    <div class="bar">
+                        <div class="title">Pazartesi</div>
+                        <div class="value tooltips" data-original-title="80%" data-toggle="tooltip" data-placement="top">80%</div>
+                    </div>
+                    <div class="bar ">
+                        <div class="title">Salı</div>
+                        <div class="value tooltips" data-original-title="50%" data-toggle="tooltip" data-placement="top">50%</div>
+                    </div>
+                    <div class="bar ">
+                        <div class="title">Çarşamba</div>
+                        <div class="value tooltips" data-original-title="40%" data-toggle="tooltip" data-placement="top">40%</div>
+                    </div>
+                    <div class="bar ">
+                        <div class="title">Perşembe</div>
+                        <div class="value tooltips" data-original-title="55%" data-toggle="tooltip" data-placement="top">55%</div>
+                    </div>
+                    <div class="bar">
+                        <div class="title">Cuma</div>
+                        <div class="value tooltips" data-original-title="20%" data-toggle="tooltip" data-placement="top">20%</div>
+                    </div>
+                    <div class="bar ">
+                        <div class="title">Cumartesi</div>
+                        <div class="value tooltips" data-original-title="39%" data-toggle="tooltip" data-placement="top">39%</div>
+                    </div>
+                    <div class="bar">
+                        <div class="title">Pazar</div>
+                        <div class="value tooltips" data-original-title="75%" data-toggle="tooltip" data-placement="top">75%</div>
+                    </div>
+
+                </div>
+                <!--custom chart end-->
+            </div>
+
+
+            <div class="col-lg-8">
+                <!--custom chart start-->
+                <div class="border-head">
+                    <br /><br /><br />
+                    <h3>Ürün Satiş Grafiği</h3>
+                </div>
+                <div class="custom-bar-chart">
+                    <ul class="y-axis">
+                        <li><span>100</span></li>
+                        <li><span>80</span></li>
+                        <li><span>60</span></li>
+                        <li><span>40</span></li>
+                        <li><span>20</span></li>
+                        <li><span>0</span></li>
+                    </ul>
+                    <div class="bar">
+                        <div class="title">Pazartesi</div>
+                        <div class="value tooltips" data-original-title="80%" data-toggle="tooltip" data-placement="top">80%</div>
+                    </div>
+                    <div class="bar ">
+                        <div class="title">Salı</div>
+                        <div class="value tooltips" data-original-title="50%" data-toggle="tooltip" data-placement="top">50%</div>
+                    </div>
+                    <div class="bar ">
+                        <div class="title">Çarşamba</div>
+                        <div class="value tooltips" data-original-title="40%" data-toggle="tooltip" data-placement="top">40%</div>
+                    </div>
+                    <div class="bar ">
+                        <div class="title">Perşembe</div>
+                        <div class="value tooltips" data-original-title="55%" data-toggle="tooltip" data-placement="top">55%</div>
+                    </div>
+                    <div class="bar">
+                        <div class="title">Cuma</div>
+                        <div class="value tooltips" data-original-title="20%" data-toggle="tooltip" data-placement="top">20%</div>
+                    </div>
+                    <div class="bar ">
+                        <div class="title">Cumartesi</div>
+                        <div class="value tooltips" data-original-title="39%" data-toggle="tooltip" data-placement="top">39%</div>
+                    </div>
+                    <div class="bar">
+                        <div class="title">Pazar</div>
+                        <div class="value tooltips" data-original-title="75%" data-toggle="tooltip" data-placement="top">75%</div>
+                    </div>
+
+                </div>
+                <!--custom chart end-->
+            </div>
+
+
+            <div class="col-lg-8">
+                <!--custom chart start-->
+                <div class="border-head">
+                    <br /><br /><br />
+                    <h3>Üye Kaydı Grafiği</h3>
+                </div>
+                <div class="custom-bar-chart">
+                    <ul class="y-axis">
+                        <li><span>100</span></li>
+                        <li><span>80</span></li>
+                        <li><span>60</span></li>
+                        <li><span>40</span></li>
+                        <li><span>20</span></li>
+                        <li><span>0</span></li>
+                    </ul>
+                    <div class="bar">
+                        <div class="title">Pazartesi</div>
+                        <div class="value tooltips" data-original-title="80%" data-toggle="tooltip" data-placement="top">80%</div>
+                    </div>
+                    <div class="bar ">
+                        <div class="title">Salı</div>
+                        <div class="value tooltips" data-original-title="50%" data-toggle="tooltip" data-placement="top">50%</div>
+                    </div>
+                    <div class="bar ">
+                        <div class="title">Çarşamba</div>
+                        <div class="value tooltips" data-original-title="40%" data-toggle="tooltip" data-placement="top">40%</div>
+                    </div>
+                    <div class="bar ">
+                        <div class="title">Perşembe</div>
+                        <div class="value tooltips" data-original-title="55%" data-toggle="tooltip" data-placement="top">55%</div>
+                    </div>
+                    <div class="bar">
+                        <div class="title">Cuma</div>
+                        <div class="value tooltips" data-original-title="20%" data-toggle="tooltip" data-placement="top">20%</div>
+                    </div>
+                    <div class="bar ">
+                        <div class="title">Cumartesi</div>
+                        <div class="value tooltips" data-original-title="39%" data-toggle="tooltip" data-placement="top">39%</div>
+                    </div>
+                    <div class="bar">
+                        <div class="title">Pazar</div>
+                        <div class="value tooltips" data-original-title="75%" data-toggle="tooltip" data-placement="top">75%</div>
+                    </div>
+
+                </div>
+                <!--custom chart end-->
+            </div>
+        </div>
+
+    </section>
+</section>
